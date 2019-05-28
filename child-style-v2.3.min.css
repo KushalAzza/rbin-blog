@@ -127,8 +127,8 @@ body .extendedwopts-show{display:none}body .widgetopts-hide_title .widget-title{
 .entry-featured .entry-title{font-size:16px;}
 .entry-content .wp-caption{background:none;box-shadow:1px 2px 15px 0px #656565;}
 .entry-content img.aligncenter{background:none;margin:2.5em auto;box-shadow:0px 0px 30px 0px #656565;}
-#commentforumlink{letter-spacing:1px;font-weight:600;padding:2%;border:1px solid #EAEAEA;position:relative;background-color:#F2F2F2;top:-13px;text-transform:uppercase;text-align:center;}
 .themeform input[type="checkbox"]{margin:18px;}
+.themeform input[type="submit"], .themeform button[type="submit"]{margin-top:20px;}
 .post-head-title{position:relative;width:100%;margin:0 auto;display:block;height:auto;}
 .featured-img{position:relative;width:100%;margin:0 auto;display:block;height:auto;opacity:0.3;transition:.5s ease;background:#f1f1f1;text-align:center;}
 .featured-img:hover{opacity:0.5;transition:.5s ease;}
