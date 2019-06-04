@@ -1,0 +1,32 @@
+{"dir" : "ltr",
+    "lang" : "en-US",
+    "name" : "@restoreBin",
+    "scope" : "/",
+    "display" : "browser",
+    "start_url" : "https://www.restorebin.com/",
+    "short_name" : "@restoreBin",
+    "theme_color" : "#ff3535",
+    "description" : "Welcome to @restoreBin - an online blog with awesome tips and versatile solutions on #Tech #Digital #Money and #Living for everyone out there.",
+    "orientation" : "any",
+    "background_color" : "transparent",
+    "related_applications" : "",
+    "prefer_related_applications" : "false",
+    "generated" : "true",
+    "icons" : [
+        {
+            "src": "https://i3.wp.com/www.restorebin.com/files/uploads/restoreBin_bigfaviconsize_T-300x300.png",
+            "sizes": "300x300"
+        },
+        {
+            "src": "https://i3.wp.com/www.restorebin.com/files/uploads/restoreBin_bigfaviconsize_T-65x65.png",
+            "sizes": "32x32"
+        },
+        {
+            "src": "https://i3.wp.com/www.restorebin.com/files/uploads/restoreBin_bigfaviconsize_T-200x200.png",
+            "sizes": "192x192"
+        },
+        {
+            "src": "https://i3.wp.com/www.restorebin.com/files/uploads/restoreBin_bigfaviconsize_T-200x200.png",
+            "sizes": "200x200"
+        }
+    ]}
