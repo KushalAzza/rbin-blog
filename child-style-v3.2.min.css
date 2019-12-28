@@ -21,10 +21,10 @@ body .extendedwopts-show{display:none}body .widgetopts-hide_title .widget-title{
 .pad{padding:20px 20px 10px;}
 .content{padding-top:20px;}
 .entry-content{font-size:16px;}
-.entry-content h1{font-size:28px;letter-spacing:-0.7px;}
-.entry-content h2{font-size:26px;letter-spacing:-0.5px;}
-.entry-content h3{font-size:24px;letter-spacing:-0.3px;}
-.entry-content h4{font-size:22px;letter-spacing:-0.3px;}
+.entry-content h1{font-size:28px;letter-spacing: -0.07em; word-spacing: 0.05em;}
+.entry-content h2{font-size:26px;letter-spacing: -0.06em; word-spacing: 0.05em;}
+.entry-content h3{font-size:24px;letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content h4{font-size:22px;letter-spacing: -0.04em; word-spacing: 0.05em;}
 .entry-content h5{font-size:18px;}
 .entry-content h6{font-size:16px;text-transform:uppercase;}
 .page-title{font-size:20px;}
@@ -101,14 +101,14 @@ body .extendedwopts-show{display:none}body .widgetopts-hide_title .widget-title{
 .page-title{padding:0;}
 .code-block{text-align:center;}
 .entry-content{font-size:1.1em;line-height:1.8em;}
-.entry-content p{font-size:1.1em;margin:1em 0 1.5em 0;}
-.entry-content ol{margin:1.5em 0.5em;}
-.entry-content ul{margin:1.5em 0.5em;}
-.entry-content li{margin:0.5em 1em;}
+.entry-content p{font-size:1.1em;margin:1em 0 1.5em 0; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content ol{margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content ul{margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content li{margin:0.5em 1em; letter-spacing: -0.05em; word-spacing: 0.05em;}
 .entry-list .entry-title{font-size:30px;line-height:40px;}
 .entry-list .entry{background:#f2f2f2;}
 .entry-list .entry img{border:solid #dddddd;}
-.entry-description{font-size:18px;font-weight:bold;border-bottom:2px solid #dddddd;margin-bottom:20px;padding:0 15px 15px;}
+.entry-description{font-size:18px;font-weight:bold;border-bottom:2px solid #dddddd;margin-bottom:20px;padding:0 15px 15px; letter-spacing: -0.05em; word-spacing: 0.05em;}
 #ez-toc-container li, #ez-toc-container ul, #ez-toc-container ul li, .ez-toc-widget-container, .ez-toc-widget-container li{background:0 0;list-style:none;line-height:2.5;overflow:hidden;z-index:1;}
 .entry-date{margin-bottom:0px;}
 .entry-tags{margin-bottom:10px;}
