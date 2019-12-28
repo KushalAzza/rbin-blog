@@ -101,10 +101,10 @@ body .extendedwopts-show{display:none}body .widgetopts-hide_title .widget-title{
 .page-title{padding:0;}
 .code-block{text-align:center;}
 .entry-content{font-size:1.1em;line-height:1.8em;}
-.entry-content p{font-size:1.15em;margin:1em 0 1.5em 0; letter-spacing: -0.05em; word-spacing: 0.05em;}
-.entry-content ol{font-size:1.1em;margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
-.entry-content ul{font-size:1.1em;margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
-.entry-content li{font-size:1.1em;margin:0.5em 1em; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content p{font-size:1.15em;margin:1em 0 1.5em 0; letter-spacing: -0.03em; word-spacing: 0.05em;}
+.entry-content ol{margin:1.5em 0.5em;}
+.entry-content ul{margin:1.5em 0.5em;}
+.entry-content li{font-size:1.1em;margin:0.5em 1em; letter-spacing: -0.03em; word-spacing: 0.05em;}
 .entry-list .entry-title{font-size:30px;line-height:40px;}
 .entry-list .entry{background:#ffffff;}
 .entry-list .entry img{border:solid #dddddd;}
