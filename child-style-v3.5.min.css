@@ -97,16 +97,16 @@ body .extendedwopts-show{display:none}body .widgetopts-hide_title .widget-title{
 .frontpage-top{max-width:800px;}
 .site-description{text-align:center;font-size:14px;font-style:normal;color:#999;line-height:30px;position:relative;z-index:2;}
 #header .pad{padding-top:30px;padding-bottom:0px;}
-.content-color{background-color:#f2f2f2;}
+.content-color{background-color:#ffffff;}
 .page-title{padding:0;}
 .code-block{text-align:center;}
 .entry-content{font-size:1.1em;line-height:1.8em;}
-.entry-content p{font-size:1.1em;margin:1em 0 1.5em 0; letter-spacing: -0.05em; word-spacing: 0.05em;}
-.entry-content ol{margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
-.entry-content ul{margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
-.entry-content li{margin:0.5em 1em; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content p{font-size:1.15em;margin:1em 0 1.5em 0; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content ol{font-size:1.1em;margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content ul{font-size:1.1em;margin:1.5em 0.5em; letter-spacing: -0.05em; word-spacing: 0.05em;}
+.entry-content li{font-size:1.1em;margin:0.5em 1em; letter-spacing: -0.05em; word-spacing: 0.05em;}
 .entry-list .entry-title{font-size:30px;line-height:40px;}
-.entry-list .entry{background:#f2f2f2;}
+.entry-list .entry{background:#ffffff;}
 .entry-list .entry img{border:solid #dddddd;}
 .entry-description{font-size:18px;font-weight:bold;border-bottom:2px solid #dddddd;margin-bottom:20px;padding:0 15px 15px; letter-spacing: -0.05em; word-spacing: 0.05em;}
 #ez-toc-container li, #ez-toc-container ul, #ez-toc-container ul li, .ez-toc-widget-container, .ez-toc-widget-container li{background:0 0;list-style:none;line-height:2.5;overflow:hidden;z-index:1;}
